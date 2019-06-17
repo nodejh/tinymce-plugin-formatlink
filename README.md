@@ -51,6 +51,7 @@ Then open browser and go to `http://localhost:3000/src/plugins/formatlink/demo/h
 
 ## Demo
 
+![formatlink.gif](./demo/formatlink.gif)
 
 
 
